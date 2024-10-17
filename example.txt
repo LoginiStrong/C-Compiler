@@ -1,0 +1,13 @@
+main()
+{
+	float x = 10;
+	time(x);
+	print(x);
+	bool y = TRUE;
+	bool z = FALSE;
+	bool t = z;
+	bool t2 = y;
+	print(t);
+	print(t2);
+	drawsquare(1,0.3,0.8,1,1,50,50);
+}

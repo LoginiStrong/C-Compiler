@@ -1,0 +1,20 @@
+test(float z)
+{
+	print(z);
+}
+main()
+{
+	float zeeb = 7;
+	bool r = TRUE;
+	bool ree = FALSE;
+	if (r == TRUE & ree == TRUE)
+	{
+		float ui;
+	}
+	bool trust = r;
+	while (5 > 4)
+	{
+		ree = TRUE;
+		test(zeeb);
+	}
+}
